@@ -9,6 +9,13 @@
   <strong>Password:</strong>
   <%= @user.password %>
 </p>
-
+<p>
+	<strong>Tweets</strong>
+		<% @user.tweets.each do |tweet| %>
+			<tr>
+				<td><%= tweet.input %></td>
+			</tr>
+		<% end %>
+</p>
 <%= link_to 'Edit', edit_user_path(@user) %> |
 <%= link_to 'Back', users_path %>

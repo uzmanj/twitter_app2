@@ -6,6 +6,13 @@
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
+
+<strong class="app_title">Tweeter</strong>
+
+<header class="header">
+	<%= link_to "Homepage", root_path %>
+</header>
+
 <body>
 
 <%= yield %>

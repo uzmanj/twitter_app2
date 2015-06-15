@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   resources :tweets
   resources :users
-  root 'tweets#home_page'
+  root 'users#index'
   #get 'users/:name' => 'users_controller#show'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
