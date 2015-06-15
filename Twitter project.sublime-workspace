@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"welcome",
+				"welcome_page"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/tweets_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/application.rb",
+			"settings":
+			{
+				"buffer_size": 1117,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 419.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jacobuzman/projects/twitter_app/bin",
+		"/Users/jacobuzman/projects/twitter_app/app",
+		"/Users/jacobuzman/projects/twitter_app/app/controllers",
+		"/Users/jacobuzman/projects/twitter_app/app/views",
+		"/Users/jacobuzman/projects/twitter_app/config",
+		"/Users/jacobuzman/projects/twitter_app/db",
+		"/Users/jacobuzman/projects/twitter_app/db/migrate",
+		"/Users/jacobuzman/projects/twitter_app/lib",
+		"/Users/jacobuzman/projects/twitter_app/test",
+		"/Users/jacobuzman/projects/twitter_app/tmp",
+		"/Users/jacobuzman/projects/twitter_app/vendor"
+	],
+	"file_history":
+	[
+		"/Users/jacobuzman/projects/twitter_app/Gemfile",
+		"/Users/jacobuzman/projects/twitter_app/README.rdoc",
+		"/Users/jacobuzman/projects/twitter_app/Rakefile",
+		"/Users/jacobuzman/projects/twitter_app/config.ru",
+		"/Users/jacobuzman/projects/twitter_app/Gemfile.lock",
+		"/Users/jacobuzman/projects/class8/library/db/schema.rb",
+		"/Users/jacobuzman/projects/class8/library/app/models/user.rb",
+		"/Users/jacobuzman/projects/class8/library/app/models/book.rb",
+		"/Users/jacobuzman/projects/class8/library/app/views/users/show.html.erb",
+		"/Users/jacobuzman/projects/class8/library/app/views/users/index.html.erb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611011532_add_user_id_to_books.rb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611004343_add_first_name_last_name.rb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611002530_add_series_to_books.rb",
+		"/Users/jacobuzman/projects/class8/library/db/migrate/20150611004041_add_isbn.rb",
+		"/Users/jacobuzman/projects/class8/library/README.rdoc",
+		"/Users/jacobuzman/projects/class8/library/Rakefile",
+		"/Users/jacobuzman/projects/class8/library/Gemfile",
+		"/Users/jacobuzman/projects/class8/library/config.ru",
+		"/Users/jacobuzman/projects/class8/library/Gemfile.lock",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/db/migrate/20150609014844_add_color_to_products.rb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/db/schema.rb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/views/products/index.html.erb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/views/products/show.html.erb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/controllers/products_controller.rb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/app/views/products/_form.html.erb",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/README.rdoc",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/Rakefile",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/Gemfile",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/config.ru",
+		"/Users/jacobuzman/projects/class7_projects/color_startup/Gemfile.lock",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/config/routes.rb",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/db/migrate/20150608232944_create_tweets.rb",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/db/schema.rb",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/README.rdoc",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/Rakefile",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/Gemfile",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/config.ru",
+		"/Users/jacobuzman/projects/class7_projects/twitter_app/Gemfile.lock",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/about_us.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/baked/brownie_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/baked/cookie_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/home_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/controllers/baked_controller.rb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/welcome_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/controllers/application_controller.rb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/Baked/brownie_page.html.erb",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/mailers/.keep",
+		"/Users/jacobuzman/projects/class5_website/sample_app/app/views/welcome/cookie_page.html.erb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/tweets_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "config/application.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Twitter project.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"book",
+				"app/models/book.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"add",
+				"db/migrate/20150611002530_add_series_to_books.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"brow",
+				"app/views/baked/brownie_page.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
